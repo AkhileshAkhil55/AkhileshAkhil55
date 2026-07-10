@@ -22,8 +22,11 @@
 - ☁️ AWS Cloud Learner
 - 📚 Passionate about Data Structures & Algorithms
 - 🎯 Aspiring Software Development Engineer
+## 🐍 Contribution Snake
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AkhileshAkhil55/AkhileshAkhil55/output/github-contribution-grid-snake.svg" alt="Snake animation">
+</p>
 
 # 🛠️ Tech Stack
 
