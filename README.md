@@ -79,7 +79,7 @@ AI-powered Spring Boot backend code generator that generates Spring Boot project
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="akhileshparamasivam@gmail.com">
+<a href="mailto:akhileshparamasivam@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
